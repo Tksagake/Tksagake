@@ -150,6 +150,7 @@ Explore how we’re revolutionizing music education and making learning more int
 ## 🏅 Current Projects & Challenges:
 - Developing a **scalable educational platform** for **Vivace Music School**.
 - Exploring new ways to **integrate DAWs** into interactive learning platforms, making music production more accessible and fun.
+![GitHub Stats Animation](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611v19blic9qsbr85tsb7aikc7wii5rabm0u4wiw3v0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
