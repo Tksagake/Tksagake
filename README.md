@@ -4,7 +4,7 @@
 
 I’m on a mission to bridge **music** and **technology**, making **music education** accessible to everyone, everywhere. As a **Frontend Developer** and advocate for **Digital Audio Workstations (DAWs)**, I aim to create interactive, scalable platforms that bring music learning to the digital world.
 
-![GitHub Stats Animation](https://tenor.com/bRPBh.gif)
+![GitHub Stats Animation](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611v19blic9qsbr85tsb7aikc7wii5rabm0u4wiw3v0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 With a background in **telecommunications engineering**, I use my skills to build **web solutions** that transform education through **innovative tech**.
@@ -138,7 +138,7 @@ Explore how we’re revolutionizing music education and making learning more int
 ## 📊 Top Contributed Repo:
 ![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=TKsagake&repo=vivaceke&theme=radical)
 
-
+---
 
 ## 🛠️ Fun Facts:
 - **Passionate about collaboration** in both tech and music.
