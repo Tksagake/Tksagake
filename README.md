@@ -4,8 +4,8 @@
 
 I’m on a mission to bridge **music** and **technology**, making **music education** accessible to everyone, everywhere. As a **Frontend Developer** and advocate for **Digital Audio Workstations (DAWs)**, I aim to create interactive, scalable platforms that bring music learning to the digital world.
 
-![GitHub Stats Animation](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611v19blic9qsbr85tsb7aikc7wii5rabm0u4wiw3v0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611v19blic9qsbr85tsb7aikc7wii5rabm0u4wiw3v0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="auto" alt="GitHub Stats Animation">
 
 With a background in **telecommunications engineering**, I use my skills to build **web solutions** that transform education through **innovative tech**.
 
