@@ -128,11 +128,8 @@ Explore how we’re revolutionizing music education and making learning more int
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=TKsagake&count_private=true&show_icons=true&hide_title=true&theme=radical)
 
 ## 🔥 Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TKsagake&theme=radical)
-## 🔥 Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=TKsagake&theme=radical)
-## 🔥 Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TKsagake&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tksagake&theme=shades-of-purple)](https://git.io/streak-stats)
+
 
 
 ## 🌍 Most Used Languages:
