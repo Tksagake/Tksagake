@@ -37,11 +37,9 @@ With a background in **telecommunications engineering**, I use my skills to buil
 ---
 
 ## 💬 Let’s Connect:
-- [🔗 LinkedIn](https://www.linkedin.com/in/sikolia-malcolm/)
-- [🔗 Facebook](https://web.facebook.com/malcolmsikolia)
-- [📸 Instagram](https://www.instagram.com/_siko.lia/)
-
----
+- [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/sikolia-malcolm/)
+- [![Facebook](https://img.icons8.com/color/50/000000/facebook.png)](https://web.facebook.com/malcolmsikolia)
+- [![Instagram](https://img.icons8.com/color/50/000000/instagram-new.png)](https://www.instagram.com/_siko.lia/)
 
 ## 🌐 Check Out My Website:
 [**Vivace Music School**](https://vivaceke.co.ke)  
