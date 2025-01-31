@@ -65,6 +65,11 @@ Explore how we’re revolutionizing music education and making learning more int
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tksagake&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Starnoh254&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🛠️ Fun Facts:
 - **Passionate about collaboration** in both tech and music.
