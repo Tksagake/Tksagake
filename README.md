@@ -1,56 +1,106 @@
-# 👋 Hello, I'm Sikolia 🎶
-
-## 🌟 Head of IT | Telecommunication Engineer | Music Director | AI Enthusiast
-
-I stand at the intersection of **Telecommunications**, **Software Engineering**, and **Music Education**.
-
-Currently serving as the **Head of IT** at **Sary Network International** and the **Director** of **Vivace Music School**, I build scalable systems that solve real-world problems. My background in **Telecommunication Information Engineering (JKUAT)** drives my passion for connecting people—whether through **VoIP/SIP** solutions or interactive music platforms.
-
 <div align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" height="auto" alt="GitHub Stats Animation">
+
+# Malcolm Sikolia
+
+### Telecommunication Engineer · Full-Stack Developer · Classical Musician & Music Director
+
+*Where signal processing meets counterpoint, and SIP meets SATB.*
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFzcjQ0YXV2andob3k0cWY0d2p1cmRxbWxlcGltMWlmcjMzMWF3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Animated banner">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sikolia--malcolm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikolia-malcolm/)
+[![Instagram](https://img.shields.io/badge/Instagram-_siko.lia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_siko.lia/)
+[![Vivace](https://img.shields.io/badge/Vivace_Music_School-vivaceke.co.ke-6A1B9A?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://vivaceke.co.ke)
+
 </div>
 
 ---
 
-## 🚀 What I’m Working On:
-* **Enterprise Integration:** Developing custom **CRM & SIP** products for **Sary Network**, bridging web applications with telephony using **WebRTC** and **Asterisk**.
-* **EdTech Systems:** Architecting the student portal and learning management systems for **Vivace Music School**, enabling seamless grade tracking and resource access.
-* **AI & Automation:** Experimenting with **Local LLMs**, **RAG**, and **AI Agents** to create privacy-focused intelligent assistants.
-* **Self-Hosting & SysAdmin:** Managing mail servers (**Poste.io**), VPS infrastructure, and deploying scalable web apps.
-* **Music Theory & Tech:** Digitizing the curriculum for **AMusTCL** and **Grade 8** theory, and exploring **DAW** integration (Ableton/Logic) for web-based learning.
+## 👤 About
+
+I am an undergraduate student pursuing a **BSc in Telecommunication and Information Engineering at JKUAT**, and I work at an unusual intersection: **rigorous systems engineering on one side, comprehensive music composition, direction, and pedagogy on the other.**
+
+By day I architect and operate the infrastructure that connects people: enterprise IT, SIP telephony, WebRTC softphones and custom CRM platforms. Beyond that, I lead a music school, serve on the governing structures of a national composers' network, and train ensembles and choirs for national festivals. The two disciplines are closer than they appear. Both demand precision, structure, and an ear for how independent parts combine into a coherent whole, whether those parts are SIP signalling legs or the four voices of a Bach chorale.
+
+My mission: **bridge the gap between modern technology and Kenyan music education and enterprise.**
 
 ---
 
-## 💻 Tech Stack:
+## 🌍 Current Roles
 
-### **Languages & Core**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Frontend & Mobile**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-### **Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### **DevOps, Telecoms & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+| Role | Organisation | Focus |
+|---|---|---|
+| **Head of IT & Infrastructure** | [Sary Network International Ltd](https://app.sary.co.ke) | Enterprise IT, SIP telephony, WebRTC, custom CRM systems, Software Development |
+| **Director & Founder** | [Vivace Music School](https://vivaceke.co.ke) / Vivace Music Consultancy | Authorised **Trinity College London Examination Centre (No. 74255)**; EdTech platforms and curriculum digitisation. Music Publishing and Copyright. Music Consultancy and Training |
+| **Head of Communication & Digital Services** | **KeMCANet** (Kenyan Music Composers and Arrangers Network) | Member of the Management Board |
+| **Chief Technology Officer** | MaraTech [Maratech Innovation Centre](https://maratech.co.ke) | Technology strategy and product engineering |
 
 ---
 
-## 🌍 Roles & Affiliations:
-* **Director:** [Vivace Music School Kenya](https://vivaceke.co.ke)
-* **Head of IT:** Sary Network International Ltd
-* **IT Consultant:** KeMCANet (Kenya Music Composers and Arrangers Network)
-* **Executive Dev:** Maratech
+## 🚀 What I'm Working On
+
+- 📞 **Telephony + Web integration.** Custom CRM and SIP products that bridge web applications with **SIP Telephony**, **PJSIP** and **WebRTC** softphones.
+- 🎓 **EdTech systems.** Student portals and learning management for Vivace Music School: grade tracking, resource access, and a digitised curriculum.
+- 🤖 **AI & automation.** Local LLMs, RAG pipelines and AI agents for privacy-focused intelligent assistants.
+- 🖥️ **Self-hosting & infrastructure.** Linux VPS fleets, Dockerised deployments, Nginx, and self-hosted mail servers.
+- 🎼 **Music theory meets tech.** Digitising music educational content, and exploring DAW integration  for web-based learning.
 
 ---
 
-## 💬 Let’s Connect:
-- [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/sikolia-malcolm/)
-- [![Instagram](https://img.icons8.com/color/50/000000/instagram-new.png)](https://www.instagram.com/_siko.lia/)
-- 📧 **Email:** [Contact me via Vivace](https://vivaceke.co.ke)
+## 🎶 Musical & Pedagogical Background
 
-## 🏆 GitHub Stats:
+- **Classical harmony, counterpoint and instruction** up to **AMusTCL diploma level**
+- **Choral arrangement** for **SATB, TTBB and SSA** ensembles
+- **Ensemble training and direction** for national festivals
+- Authorised examination centre delivering **Trinity College London** assessments through Vivace
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Telecoms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Asterisk](https://img.shields.io/badge/Asterisk-F37F40?style=for-the-badge&logo=asterisk&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+*Also working with:* **PJSIP**, **WebRTC SIP softphones**, **self-hosted mail servers**, **Linux VPS administration**.
+
+---
+
+## 🧭 Fact vs. Fiction
+
+- **Fact:** I can debug a SIP handshake failure and analyse a Bach chorale in the same afternoon.
+- **Fact:** I advocate for open-source AI models (Llama and friends) over proprietary black boxes.
+- **Fact:** A well-written SATB arrangement and a well-designed network topology share the same discipline: every part has a role, and the whole only works when each one is in tune.
+
+---
+
+## 🤝 Collaboration
+
+I'm open to collaborating on:
+
+- **EdTech platforms** for music and general education
+- **VoIP / WebRTC / Asterisk integrations** and telephony-enabled CRMs
+- **Open-source music tools** and DAW-connected web learning
+- **Local-first AI assistants** and automation
+
+If your project needs **engineering precision and creative soul**, let's talk. Reach me via [LinkedIn](https://www.linkedin.com/in/sikolia-malcolm/) or [Vivace Music School](https://vivaceke.co.ke).
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=TKsagake&count_private=true&show_icons=true&hide_title=true&theme=radical)
@@ -59,21 +109,6 @@ Currently serving as the **Head of IT** at **Sary Network International** and th
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TKsagake&show_icons=true&locale=en&layout=compact&theme=radical)
 
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Tksagake&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 </div>
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tksagake&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🛠️ Fact vs. Fiction:
-- **Fact:** I can debug a SIP server handshake error and analyze a Bach Chorale harmony in the same afternoon.
-- **Fact:** I advocate for Open Source AI models (Llama) over proprietary black boxes.
-- **Mission:** Bridging the gap between **Silicon Valley tech** and **Kenyan music education**.
-
----
-
-## 🎯 Collaboration:
-I am open to collaborations on **EdTech platforms**, **VoIP/WebRTC integrations**, and **Open Source Music Tools**. If you are working on something that requires both engineering precision and creative soul, reach out. 🚀
